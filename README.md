@@ -1,4 +1,8 @@
 <p align="center">
+  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo.png" width="200px" />
+</p>
+
+<p align="center">
 Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 </p>
 
