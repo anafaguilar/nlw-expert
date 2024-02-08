@@ -4,8 +4,8 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://anafaguilar.github.io/nlw-expert/">Link</a>
+  <a href="#-projeto">Descrição do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://anafaguilar.github.io/nlw-expert/">Projeto</a>
 </p>
 
 <br>
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 
-## 💻 Projeto
+## 💻 Descrição do Projeto
 
 Projeto para desenvolver um quiz pra testar os seus conhecimentos e ter um retorno sobre a quantidade de questões que você acertou.
 
