@@ -5,7 +5,7 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://anafaguilar.github.io/nlw-expert/">Licença</a>
+  <a href="https://anafaguilar.github.io/nlw-expert/">Link</a>
 </p>
 
 <br>
